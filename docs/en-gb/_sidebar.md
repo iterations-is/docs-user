@@ -1,2 +1,1 @@
-- **Getting Started**
-   - [Lorem Ipsum](/en-gb/lorem.md)
+<!-- -  **Getting Started** - [Lorem Ipsum](/en-gb/lorem.md) -->

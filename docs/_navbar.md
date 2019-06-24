@@ -1,4 +1,3 @@
-
-- Translations
-  - [🇬🇧 English](/en-gb/)
-  - [🇨🇿 Czech](/cs-cz/)
+<!-- -  Translations
+   -  [🇬🇧 English](/en-gb/)
+      - [🇨🇿 Czech](/cs-cz/) -->
