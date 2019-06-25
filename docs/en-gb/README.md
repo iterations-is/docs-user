@@ -4,28 +4,28 @@ Study project management information system focused on Faculty of Information Te
 
 ## Login page
 
-![](../_media/login.png)
+![](_media/login.png)
 
 ## Dashoboard
 
-![](../_media/dashboard.png)
+![](_media/dashboard.png)
 
 ## Search
 
-![](../_media/search.png)
+![](_media/search.png)
 
 ## Create project
 
-![](../_media/createProject.png)
+![](_media/createProject.png)
 
 ## Notifications
 
-![](../_media/notifications.png)
+![](_media/notifications.png)
 
 ## Project
 
-![](../_media/projectDesc.png)
+![](_media/projectDesc.png)
 
 ## Admin panel
 
-![](../_media/panel.png)
+![](_media/panel.png)
